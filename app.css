@@ -1,7 +1,27 @@
 h1 {
-    color : red
+    color : red;
+    background-color : rgb(200, 255, 0);
+    
+}
+
+h3 {
+    text-align: left;
 }
 
 body {
-    background-color: aquamarine;
+    background-color: powderblue;
+    text-align: center;
+}
+
+p {
+    color : darkred;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+pre {
+    text-align: left;
+    color: fuchsia;
+    background-color: darkblue;
+    font-size: 90%;
 }
